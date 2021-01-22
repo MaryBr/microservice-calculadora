@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: calculadora
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: marina
+Implementation-Vendor-Id: com.curso.spring.boot
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/calculadora
+Created-By: Maven Integration for Eclipse
+
